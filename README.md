@@ -1,4 +1,4 @@
-# LibModelClassBuilder
+# LibModelClassBuilder-Net
 C# - Generates Model Class from SQL Server tables and queries 
 
 
